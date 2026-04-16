@@ -1,0 +1,32 @@
+🍽️ Project 1: Food Recipe Website
+📌 Description
+
+A simple static food website that shows different recipes with images and ingredients. It also includes navigation links to explore saved items, search, login page, and different food categories.
+
+✨ Features
+Recipe cards with images and ingredients
+Navigation links (Saved, Search, Login)
+Explore section with food categories
+Simple search input UI
+Beginner-friendly HTML structure
+🛠️ Tech Used
+HTML only
+🎯 Purpose
+
+To practice HTML layout, tables, images, and linking multiple pages.
+
+🚗 Project 2: Car Service Website + Login Page
+📌 Description
+
+A basic car service website that displays different car repair services with images and a login page for users.
+
+✨ Features
+Service table (Mechanical, Electrical, Painting, etc.)
+Images for each service
+Simple login form (username & password)
+Clean beginner-friendly layout
+🛠️ Tech Used
+HTML (basic structure + form)
+🎯 Purpose
+
+To learn tables, forms, images, and simple UI structure in HTML.
